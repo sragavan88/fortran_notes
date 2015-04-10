@@ -24,7 +24,7 @@
 	print *,'Enter time elapsed in seconds; t:'
 	read *,t
 
-	s=u*t + 0.5*g*t*t
+	s=u*t - 0.5*g*t*t
 
 	print *,
 	print *,'The distance travelled is',s,'m'
