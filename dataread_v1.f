@@ -1,5 +1,5 @@
 	program dataread
-	! Simple program to read 3 numerical values from a data input file and display the output. 
+	! Simple program to read 4 numerical values from a data input file and display the output. 
 	! Notes: Doesn't work if the data has text characters. Separates each number based on whitespace, or a new line.
 	! Requires the data file 'data.txt' to be saved in the appropriate location
 
